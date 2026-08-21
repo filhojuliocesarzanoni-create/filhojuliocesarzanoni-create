@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=High+school+student;Studying+Information+Technology)](https://git.io/typing-svg)
 
 
-## Aquelas
+## Aqui eu manjo
 
 <div align="left">
 
