@@ -34,6 +34,7 @@ Projeto desenvolvido para facilitar o contato entre pessoas e profissionais da Ã
 ## Gostos
 
 Tetris, Persona e Bangers ğŸ‘
-
+<div align="center">
 <img src="./nightmare.jpg" width="800"> 
+</div>
 
