@@ -23,10 +23,8 @@
 * Banco de Dados
 * C#
 * JavaScript
-* Git e GitHub
-* Boas práticas de programação
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 💬 EmotiHub
 
@@ -35,7 +33,5 @@ Projeto desenvolvido para facilitar o contato entre pessoas e profissionais da �
 ## Gostos
 
 Tetris e Persona 👍
----
 
-<img src="./psyduckimbecil.jpg" width="800" height="100">
 
